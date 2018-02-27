@@ -8,12 +8,12 @@ account management. It's a fully customizable application that takes care of
 the signup, activation, messaging and more. It's BSD licensed, which means you
 can use it commercially for free!
 
-## [Documentation](http://docs.django-userena.org/en/latest/index.html)
+## [Documentation](http://django-userena.readthedocs.org/en/latest/index.html)
 
 Complete documentation about the
-[installation](http://docs.django-userena.org/en/latest/installation.html),
-[settings](http://docs.django-userena.org/en/latest/settings.html) and
-[F.A.Q.](http://docs.django-userena.org/en/latest/faq.html) is available on
-[Read the Docs](http://docs.django-userena.org/en/latest/index.html).
+[installation](http://django-userena.readthedocs.org/en/latest/installation.html),
+[settings](http://django-userena.readthedocs.org/en/latest/settings.html) and
+[F.A.Q.](http://django-userena.readthedocs.org/en/latest/faq.html) is available on
+[Read the Docs](http://django-userena.readthedocs.org/en/latest/index.html).
 
 For list of updates and changes see `UPDATES.md` file.
